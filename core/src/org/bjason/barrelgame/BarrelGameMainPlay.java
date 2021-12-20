@@ -18,7 +18,7 @@ import java.util.ArrayList;
 
 public class BarrelGameMainPlay extends ApplicationAdapter {
     public static final int GRAVITY_DOWN_Y = -25;
-    private static final int ADD_BARREL_EVERY_TICK = 800;
+    private static final int ADD_BARREL_EVERY_TICK = 400;
     private static final int ADD_FIRE_TICK = 500;
     public static final double END_SCREEN_X = 0.5;
     public static final int END_SCREEN_Y = 3;
